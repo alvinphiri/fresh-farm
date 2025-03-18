@@ -1,0 +1,2 @@
+code{font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace}@tailwind base;@tailwind components;@tailwind utilities;.error-text,body,button,input,textarea{@apply text-red-500 text-sm}
+/*# sourceMappingURL=main.6f30bfb8.css.map*/
